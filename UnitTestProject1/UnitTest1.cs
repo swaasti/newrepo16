@@ -12,7 +12,7 @@ namespace UnitTestProject1
         public void TestMethod1()
         {
             int actual = obj.add(5, 2);
-            int expected = 7;
+            int expected = 8;
             Assert.AreEqual(expected, actual);
 
         }
